@@ -1,0 +1,2 @@
+# Requires: theoretical-void
+# (Not available on PyPI)
